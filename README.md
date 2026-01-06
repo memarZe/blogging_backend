@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blogging Backend
 
 This is a basic Node.js backend for your React app.
@@ -24,3 +25,7 @@ The server will run on http://localhost:3001 by default.
 ## API Example
 
 - `GET /api/hello` returns `{ message: "Hello from the Node backend!" }`
+=======
+# blogging_backend
+blog backend
+>>>>>>> a9f053d6c2fe9d67ca83938f226a2cbcc8100452
